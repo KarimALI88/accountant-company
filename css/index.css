@@ -199,14 +199,15 @@ h1 span{
 
 /* ===================================================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Phudu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
 
 .font{
-    font-family: 'Phudu', cursive;
+    font-family: 'Cairo', sans-serif;
 }
 
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 p,h6{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', serif;
+    letter-spacing: 2px;
 }
