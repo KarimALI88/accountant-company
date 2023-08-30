@@ -39,6 +39,16 @@ div h2{
     padding-bottom: 20px;
 }
 
+@media (min-width:200px) and (max-width:800px) {
+    div h2{
+        font-size: 40px !important;
+    }
+
+    header h6{
+        width: 200px;
+    }
+}
+
 div h6{
     color: gray;
     font-size: 18px !important;
